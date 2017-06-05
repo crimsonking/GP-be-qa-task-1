@@ -1,0 +1,1 @@
+To run tests simply `mvn clean verify`
